@@ -17,7 +17,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       
     }
   },
-  base:"/zqqboke/",
+  base:"/zqqboke1/",
   themeConfig: {
     
     nav: [
@@ -108,7 +108,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
    
    blogger: {
-    avatar: '/img/me.jpg',
+    avatar: '/zqqboke1/img/me.jpg',
     name: '廾匸',
     slogan: '',
   },
@@ -174,7 +174,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         options: {
           clientID: 'e0599ef4e584ea32cd31',
           clientSecret: 'aad3c906e30952a2a161a98d6c8879f2aa234ac3',
-          repo: 'zqqboke', // GitHub 仓库
+          repo: 'zqqboke1', // GitHub 仓库
           owner: 'zqqzqq1', // GitHub仓库所有者
           admin: ['zqqzqq1'], // 对仓库有写权限的人
           // distractionFreeMode: true,
